@@ -15,7 +15,7 @@
 
 <!-- seção de redes sociais -->
 <p align="center"
-  <a href="https://www.instagram.com/bokki.art"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/4HMxZBr.png"/> 
+  <a href="https://www.instagram.com/benjidelrei"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/4HMxZBr.png"/> 
   </a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:benjidelrei@outlook.com"><img width="32px" alt="E-mail" title="Entre em contato por E-mail" src="https://i.imgur.com/dwJuGvl.png"/>  
@@ -31,16 +31,20 @@
 <br />
 <br />
 
+
 <!-- seção de projetos -->
+<h2>Principais projetos</h2>
+<section align="center" display="flex">
 
-<section display="flex">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=e-food&theme=github_dark)](https://github.com/beejjayx/e-food)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=mononoke-hime&theme=github_dark)](https://github.com/beejjayx/Mononoke-Hime.git)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=pandora&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=contact-list&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=e-food&theme=github_dark)](https://github.com/beejjayx/e-food)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=mononoke-hime&theme=github_dark)](https://github.com/beejjayx/Mononoke-Hime.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=pandora&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=contact-list&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
+<a href="https://github.com/beejjayx?tab=repositories&sort="><img alt="Todos os repositórios" title="Ver todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-lightgray?style=for-the-badge&logoColor=white&logo=repohttps://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
+"/></a>
+
 </section>
-
 
 
 
