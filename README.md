@@ -16,18 +16,16 @@
 <!-- seção de redes sociais -->
 <p align="center">
   <a href="https://www.instagram.com/benjidelrei"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/4HMxZBr.png"/> 
-  </a> 
+   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:benjidelrei@outlook.com"><img width="32px" alt="E-mail" title="Entre em contato por E-mail" src="https://i.imgur.com/dwJuGvl.png"/>  
-  </a>
+   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.linkedin.com/in/benjirei/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/M5CroK0.png"/>
-  </a>
+   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://discord.gg/GcNWK9y6"><img width="32px" alt="Discord" title="Entre em contato pelo Discord" src="https://i.imgur.com/Q3CE2Xm.png"/>
-  </a>
 </p>
-
 <br />
 <br />
 
@@ -54,10 +52,9 @@
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-
-
-
 <br />
+
+
 
 ##
 
@@ -71,12 +68,12 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=pandora&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=contact-list&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
 
-<a href="https://github.com/beejjayx?tab=repositories&sort="><img alt="Todos os repositórios" title="Ver todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-lightgray?style=for-the-badge&logoColor=white&logo=repohttps://custom-icon-badges.demolab.com/badge/-My%20Repos-lightgray?style=for-the-badge&logoColor=white&logo=repo
+<a href="https://github.com/beejjayx?tab=repositories&sort="><img alt="Todos os repositórios" title="Ver todos os repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-gray?style=for-the-badge&logoColor=white&logo=repo
 "/>
 </section>
 
 
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beejjayx&hide_progress=true) -->
 
 <!-- ##TO BE ADDED  seção de status -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beejjayx&show=reviews=true&theme=github_dark) -->
