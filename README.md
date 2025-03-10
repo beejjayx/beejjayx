@@ -32,8 +32,10 @@
 <br />
 
 
-<!-- seção de projetos -->
-<h2>Principais projetos</h2>
+
+### 🧩 Principais projetos
+
+
 <section align="center" display="flex">
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=e-food&theme=github_dark)](https://github.com/beejjayx/e-food)
@@ -41,14 +43,31 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=pandora&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=contact-list&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
 
-<a href="https://github.com/beejjayx?tab=repositories&sort="><img alt="Todos os repositórios" title="Ver todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-lightgray?style=for-the-badge&logoColor=white&logo=repohttps://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
+<a href="https://github.com/beejjayx?tab=repositories&sort="><img alt="Todos os repositórios" title="Ver todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-lightgray?style=for-the-badge&logoColor=white&logo=repohttps://custom-icon-badges.demolab.com/badge/-My%20Repos-lightgray?style=for-the-badge&logoColor=white&logo=repo
 "/></a>
-
 </section>
 
 
+---
 
-<!-- seção de linguagens -->
+### 🛠️ Linguagens e Ferramentas
+
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"  />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg"  />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"  />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+
+
 
 
 
