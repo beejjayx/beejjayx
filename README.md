@@ -15,7 +15,7 @@
 
 <!-- seção de redes sociais -->
 <p align="center">
-  <a href="https://www.instagram.com/benjidelrei"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/4HMxZBr.png"/> 
+  <a style="style: none" href="https://www.instagram.com/benjidelrei"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/4HMxZBr.png"/> 
    </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:benjidelrei@outlook.com"><img width="32px" alt="E-mail" title="Entre em contato por E-mail" src="https://i.imgur.com/dwJuGvl.png"/>  
@@ -25,6 +25,7 @@
    </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://discord.gg/GcNWK9y6"><img width="32px" alt="Discord" title="Entre em contato pelo Discord" src="https://i.imgur.com/Q3CE2Xm.png"/>
+   </a>
 </p>
 <br />
 <br />
@@ -68,11 +69,15 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=pandora&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=contact-list&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
 
-<a href="https://github.com/beejjayx?tab=repositories&sort="><img alt="Todos os repositórios" title="Ver todos os repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-gray?style=for-the-badge&logoColor=white&logo=repo
-"/>
+
 </section>
 
-
+<section align="center" display="flex">
+  
+ <a href="https://github.com/beejjayx?tab=repositories">
+         <img  alt="Meus repositórios" title="Ver todos os repositórios" src=https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo></a> 
+         </section>
+      
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beejjayx&hide_progress=true) -->
 
 <!-- ##TO BE ADDED  seção de status -->
