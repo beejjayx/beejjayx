@@ -65,8 +65,8 @@
 <section align="center" display="flex">
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=e-food&theme=github_dark)](https://github.com/beejjayx/e-food)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=pandora&theme=github_dark)](https://github.com/beejjayx/portfolio.git)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=mononoke-hime&theme=github_dark)](https://github.com/beejjayx/Mononoke-Hime.git)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=pandora&theme=github_dark)](https://github.com/beejjayx/Pandora)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beejjayx&repo=contact-list&theme=github_dark)](https://github.com/beejjayx/contact-list.git)
 
 
